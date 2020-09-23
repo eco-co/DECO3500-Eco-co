@@ -1,1 +1,1 @@
-# deco3500-eco-co-project
+# DECO3500: Group Eco-co
