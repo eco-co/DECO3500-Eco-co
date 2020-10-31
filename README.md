@@ -1,5 +1,7 @@
 # DECO3500: Group Eco-co
 
+The following are the link's to the group member's respositories which contain the documentation and prototype.
+
 ## Hongyu Yuan
 
 ## Mengqi Huang
