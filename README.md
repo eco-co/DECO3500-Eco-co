@@ -3,6 +3,7 @@
 ## Hongyu Yuan
 
 ## Mengqi Huang
+Link: https://github.com/hmq-karen/Design-documentation
 
 ## Shao Qi Tan
 Link: https://github.com/shao16/deco7350-Shao
