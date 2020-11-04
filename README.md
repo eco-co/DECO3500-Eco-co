@@ -3,6 +3,7 @@
 The following are the link's to the group member's respositories which contain the documentation and prototype.
 
 ## Hongyu Yuan
+Link: https://github.com/LandyRR/RecycleCircle
 
 ## Mengqi Huang
 Link: https://github.com/hmq-karen/Design-documentation
